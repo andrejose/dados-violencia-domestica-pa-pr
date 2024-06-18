@@ -1,6 +1,8 @@
 # Arquivos ocultos do sistema
 .DS_Store
+desktop.ini
 ._.DS_Store
+._.desktop.ini
 
 # Notebooks originais, não formatados
 /notebooks-mariana
