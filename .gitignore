@@ -1,5 +1,14 @@
+# Arquivos ocultos do sistema
 .DS_Store
 ._.DS_Store
+
+# Notebooks originais, não formatados
 /notebooks-mariana
+
+# Diretórios com dados brutos e tratados
 /dados
 /dados-tratados
+
+# Notebooks de apoio, sem 
+analise-exploratoria_bkp_ignorado.ipynb
+tratamento-dados-pr-conferencia-pp.ipynb
