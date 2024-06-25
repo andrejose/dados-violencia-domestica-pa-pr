@@ -9,7 +9,7 @@ desktop.ini
 
 # Diretórios com dados brutos e tratados
 /dados
-/dados-tratados
+/dados-tratados/bloqueados
 
 # Notebooks de apoio, sem 
 analise-exploratoria_bkp_ignorado.ipynb
